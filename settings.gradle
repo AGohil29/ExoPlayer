@@ -1,1 +1,1 @@
-include ':player-lib', ':app'
+include ':player-lib', ':app', ':mylibrary', ':cast'
